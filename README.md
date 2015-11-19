@@ -49,7 +49,7 @@ The similarities with Rails isn't a mistake. [Yehuda Katz](https://twitter.com/w
 By creating a new Ember application you get a route for free! Start your server with `ember s`, and visit `http://localhost:4200` you'll be welcomed by Ember.
 
 ## Generators
-We'll be working with a bunch of generators over the course of this track. The first one we'll see is the `route` generator. This generator will create do 3(!) things. It will generate a route file in `app/routes`, a template  in `app/templates` AND it will add a line to the router in `app/router.js`.
+We'll be working with a bunch of generators over the course of this track. The first one we'll see is the `route` generator. This generator will do 3(!) things. It will generate a route file in `app/routes`, a template  in `app/templates` AND it will add a line to the router in `app/router.js`.
 
 ## Templates
 Running `ember g route home` will set up everything you need to handle visiting `http://localhost:4200/home`.
