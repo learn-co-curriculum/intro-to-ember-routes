@@ -219,3 +219,5 @@ You'll be setting the model the route to be an array of Ember.Objects. The detai
 To get started, run `ember server` then visit `http://localhost:4200/tests`
 
 **Happy Hacking**
+
+<a href='https://learn.co/lessons/intro-to-ember-routes' data-visibility='hidden'>View this lesson on Learn.co</a>
