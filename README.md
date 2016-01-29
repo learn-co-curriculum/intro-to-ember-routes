@@ -220,4 +220,4 @@ To get started, run `ember server` then visit `http://localhost:4200/tests`
 
 **Happy Hacking**
 
-<a href='https://learn.co/lessons/intro-to-ember-routes' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/intro-to-ember-routes' title='Intro To Routes'>Intro To Routes</a> on Learn.co and start learning to code for free.</p>
